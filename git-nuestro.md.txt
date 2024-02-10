@@ -1,16 +1,15 @@
-*Git* nuestro que estás en los repos
-Comprimidos sean tus *commits*
-Venga a nosotros tu *log*
-En el local como en el *remote*
-Danos hoy nuestro *pull* de cada día
-Perdona nuestros *conflictos*
-Ejercicio 1
-Se deberá crear un repositorio y realizar una serie de operaciones desde la terminal y responder
-a las preguntas del cuestionario, en el que se pregunta por comandos utilizados en ciertos pasos.
+*Git* ours that you're in the repos
+Compressed be your *commits*
+Come to us your *log*
+On the premises as well as on the *remote*
+Give us our everyday *pull* today
+Forgive our *conflicts*
+Exercise 1
+A repository will need to be created and a series of operations will need to be performed from the terminal and respond
+to the questions in the questionnaire, which asks for commands used in certain steps.
 
 .
 
-Como también perdonamos los de otros geeks
-No nos dejes caer en *detached HEAD*
-y líbranos de *SVN*
-`git commit --amend`
+Just as we also forgive those of other geeks
+Don't let us fall into *detached HEAD*
+And deliver us from *S
